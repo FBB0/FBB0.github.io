@@ -53,3 +53,26 @@
 .btn.download:hover {
     background-color: #218838;
 }
+
+.social-links {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.btn.linkedin {
+    background-color: #0077b5;
+}
+
+.btn.linkedin:hover {
+    background-color: #005582;
+}
+
+.btn.twitter {
+    background-color: #1DA1F2;
+}
+
+.btn.twitter:hover {
+    background-color: #0d8af0;
+}
